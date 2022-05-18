@@ -3,7 +3,7 @@
 window.onload = function(){
   function countDown() {
 
-    var countDate = new Date("Aug 01, 2021 00:00:00").getTime();
+    var countDate = new Date("Aug 01, 2022 00:00:00").getTime();
     var now = new Date().getTime();
     var sec = 1000;
     var min = sec * 60;
